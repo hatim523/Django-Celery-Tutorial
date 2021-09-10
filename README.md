@@ -1,0 +1,1 @@
+ Django Celery Tutorial Implementation: https://www.youtube.com/watch?v=fBfzE0yk97k&list=PLOLrQ9Pn6caz-6WpcBYxV84g9gwptoN20
